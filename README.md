@@ -11,7 +11,7 @@ We plan to add other imputation tools in the future so please stay tuned!
 
 ## Installation
 
-`pip install missingpy`
+`pip install git+https://github.com/eedrobup/missingpy/`
 
 ## 1. k-Nearest Neighbors (kNN) Imputation
 
