@@ -1,5 +1,5 @@
 """KNN Imputer for Missing Data"""
-# Author: Ashim Bhattarai
+# Author: Ashim Bhattarai (Maintained by eedrobup 2023)
 # License: GNU General Public License v3 (GPLv3)
 
 import warnings
