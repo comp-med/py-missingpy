@@ -9,10 +9,6 @@ terrain. Currently, the library supports the following algorithms:
 
 We plan to add other imputation tools in the future so please stay tuned!
 
-## Installation
-
-`pip install git+https://github.com/eedrobup/missingpy.git`
-
 ## 1. k-Nearest Neighbors (kNN) Imputation
 
 ### Example
